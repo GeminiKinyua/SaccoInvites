@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="n3fBbBCvV0Ky5OHlbyzamA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.linkedin.com/search/results/people/?keywords=Ukulima%20Sacco%20head&amp;origin=SWITCH_SEARCH_VERTICAL&amp;sid=nZs" CVScreenId="8570cdd8-a035-4169-b4a4-4948681884a8" CvElementArea="1117, 506, 131, 50" CvTextArea="1140, 520, 84, 21" CvTextArgument="Connect" CvType="Button" DesignTimeRectangle="1121, 509, 124, 43" DesignTimeScaleFactor="1.3499999046325684" ElementType="Button" FullSelectorArgument="&lt;webctrl id='ember561' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='ember561' tag='BUTTON' type='button' class='artdeco-button artdeco-button--2 artdeco-button--secondary ember-view' aaname='      Connect ' check:innerText='Connect' /&gt;" Guid="6c0d4a23-0dd3-4ac3-8d3f-d5c959dd0fb6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(16) &amp;quot;Ukulima Sacco head&amp;quot; | Search | LinkedIn' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8570cdd8-a035-4169-b4a4-4948681884a8" CvElementArea="1117, 506, 131, 50" CvTextArea="1140, 520, 84, 21" CvTextArgument="Connect" CvType="Button" DesignTimeRectangle="1142, 517, 81, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='ember561' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='ember561' tag='SPAN' type='' class='artdeco-button__text' aaname='     Connect ' check:innerText='Connect' /&gt;" Guid="178bcb74-b804-4440-bab0-39b199b974b7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ad37d9e399a070cb1990b761641c427e.png" xmlns="">0xYakm5-GZUGyVxfhwNeV5Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
